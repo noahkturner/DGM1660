@@ -16,35 +16,35 @@ Goal Differential: -11
 
 -----Individual games-----
 
-Home (RSL goals-Opponent Goals):
+--Home (RSL goals-Opponent Goals)--
 
-vs. Toronto FC: 0-0
+vs. Toronto FC: 0-0 (Draw)
 
-vs. LA Galaxy: 1-2
+vs. LA Galaxy: 1-2 (Loss)
 
-vs. Vancouver Whitecaps FC: 3-0
+vs. Vancouver Whitecaps FC: 3-0 (Win)
 
-vs. Atlanta United FC: 1-3
+vs. Atlanta United FC: 1-3 (Loss)
 
-vs. FC Dallas: 0-3
+vs. FC Dallas: 0-3 (Loss)
 
-vs. New York City FC: 2-1
+vs. New York City FC: 2-1 (Win)
 
-vs. Philadelphia Union: 1-0
+vs. Philadelphia Union: 1-0 (Win)
 
-vs. Minnesota United FC: 1-0
+vs. Minnesota United FC: 1-0 (Win)
 
-vs. Orlando City FC: 0-1
+vs. Orlando City FC: 0-1 (Loss)
 
-vs. Sporting Kansas City: 1-1
+vs. Sporting Kansas City: 1-1 (Draw)
 
-vs. Columbus Crew: 2-2
+vs. Columbus Crew: 2-2 (Draw)
 
-vs. Houston Dynamo: 0-0
+vs. Houston Dynamo: 0-0 (Draw)
 
-vs. San Jose Earthquakes: 4-0
+vs. San Jose Earthquakes: 4-0 (Win)
 
---Future Home Games--
+-Future Home Games-
 
 vs. Colorado Rapids: TBD Aug. 26th 
 
