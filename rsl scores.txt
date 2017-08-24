@@ -1,6 +1,6 @@
 Real Salt Lake 2017 Season Record
 
-Points:
+Points:32
 
 Wins: 9
 Losses: 13
@@ -8,5 +8,5 @@ Draws: 5
 
 Goals Scored: 36
 Goals Against: 47
-Goal Differential:
+Goal Differential: -11
 
