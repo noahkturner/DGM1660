@@ -3,3 +3,6 @@ Real Salt Lake 2017 Season Record
 Wins: 9
 Losses: 13
 Draws: 5
+
+Goals Scored:
+Goals Against:
