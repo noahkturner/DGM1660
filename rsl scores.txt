@@ -4,5 +4,5 @@ Wins: 9
 Losses: 13
 Draws: 5
 
-Goals Scored:
-Goals Against:
+Goals Scored: 36
+Goals Against: 47
